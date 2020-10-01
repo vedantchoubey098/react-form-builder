@@ -5,6 +5,11 @@ A comprehensive Form Builder for React that handles persistence and rendering.
 ## Docs
 
  - [Using the Form Handler](/docs/FormHandler.md)
+ 
+## install react
+npx create-react-app my-app
+cd my-app
+npm start
 
 ## Running Examples
 
